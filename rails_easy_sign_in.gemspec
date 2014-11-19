@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 
 Gem::Specification.new do |s|
   s.name        = "rails_easy_sign_in"
-  s.version     = "0.0.2"
+  s.version     = "0.0.3"
   s.authors     = ["Jordan Maguire"]
   s.email       = ["jordan@thefrontiergroup.com.au"]
   s.homepage    = "https://github.com/jordanmaguire/rails_easy_sign_in"
