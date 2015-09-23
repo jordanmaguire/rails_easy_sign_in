@@ -1,0 +1,9 @@
+.easy-sign-in {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding: 10px 20px;
+  font-size: 12px;
+  background: #fff; }
+  .easy-sign-in a {
+    display: block; }
